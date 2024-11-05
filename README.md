@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PongoKango
-- 👀 I’m interested in Software Dev & UI/UX Design
-- 🌱 I’m currently learning Software Engineering & Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @PongoKango (Manny)
+- 👀 I’m interested in Software Dev & UI/UX Design.
+- 🌱 I’m currently learning Software Engineering & Python.
+- 💞️ I’m looking to collaborate on Open-Source Automation projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building mech model kits and gundams!
